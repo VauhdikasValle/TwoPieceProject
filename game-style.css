@@ -20,9 +20,8 @@ body, html {
     background-color: rgba(0, 0, 0, 0.4);
 }
 
-/* VASEN PUOLI */
 .map-panel {
-    flex: 2; /* Vie enemmän tilaa (n. 66%) */
+    flex: 2;
     background: rgba(0, 0, 0, 0.75);
     border: 3px solid #1ba1e2;
     border-radius: 20px;
@@ -43,7 +42,7 @@ body, html {
 
 /* OIKEA PUOLI */
 #sidebar {
-    flex: 1; /* Vie vähemmän tilaa (n. 33%) */
+    flex: 1;
     display: flex;
     flex-direction: column;
     gap: 15px;
