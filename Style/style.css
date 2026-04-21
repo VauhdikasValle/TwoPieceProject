@@ -8,7 +8,7 @@ body {
     font-family: Arial, sans-serif;
 
     /* TAUSTAKUVA */
-    background-image: url("images/menuback.jpg");
+    background-image: url("../images/menuback.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
